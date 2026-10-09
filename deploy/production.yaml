@@ -1,2 +1,2 @@
-replicas: 3
+replicas: 9
 image: app:1.0
